@@ -1,0 +1,317 @@
+define('spectre_home_page_title', ‘La primera plataforma financiera sin brokers del mundo’);
+define('spectre_features_text', ‘CARACTERÍSTICAS’);
+define('spectre_documents_text', 'DOCUMENTOS');
+define('spectre_whitepaper_text', 'Whitepaper');
+define('spectre_whitepaper_print_text', 'Whitepaper (Versión respetuosa con el Medio Ambiente)’);
+define('spectre_one_pager_text', 'One Pager de SPECTRE’);
+define('spectre_token_text', ‘Destino de Tokens e Ingresos');
+define('spectre_tearsheet_text', 'Tearsheet del Modelo’);
+define('spectre_forecasts_text', ‘Previsiones’);
+define('spectre_competition_matrix_text', ‘Matriz de Competencia’);
+define('spectre_swot_analysis_text', ‘Análisis DAFO’);
+define('spectre_regulation_text', 'Regulación’);
+define('spectre_liq_pool_security_text', ‘Seguridad del Pool de Liquidez');
+define('spectre_sepc_value_text', ‘Cuál es el valor de SPEC’);
+define('spectre_buyback_text', ‘Programa de Recompra de Tokens’);
+define('spectre_deligence_text', ‘Diligencias Debidas de Marca’);
+define('spectre_webinar_text', 'Webinar Detallado’);
+define('spectre_team_text', ‘EQUIPO’);
+define('spectre_faq_text', ‘PREGUNTAS PRECUENTES’);
+define('spectre_roadmap_text', ‘HOJA DE RUTA’);
+define('spectre_trade_text', ‘COMERCIO’);
+define('spectre_contact_text', 'CONTACTO’);
+define('spectre_as_seen_on_text', ‘Visto en’);
+define('spectre_title2_text', ‘La primera plataforma financiera sin brokers del mundo’);
+define('spectre_title2_desc_text', ‘Presentamos una gran disrupción en el trading financiero. Spectre es la primera plataforma de trading del mundo sin brokers que elimina al broker de la ecuación y devuelve el poder de nuevo a manos de los traders minoristas de todas partes del Globo. Construido sobre la blockchain de Ethereum, el pool de liquidez de SPECTRE es poseído por los inversores de tokens en la ICO. Los beneficios se pagan a los titulares de tokens de manera instantánea, lo que supone un cambio revolucionario en el mundo del trading y un nuevo nivel de transparencia. Más información [[LINK]]aquí.’);
+define('spectre_key_features_text', ‘Características Clave');
+define('spectre_desc3_text', ‘Las siguientes son las dos características más disruptivas que SPECTRE aporta al mundo del trading.');
+define('spectre_subtitle1_text', ‘Dividendos y Balance Tokenizado');
+define('spectre_subtitle1_desc_text', ‘El modelo único de balance tokenizado de SPECTRE permite a los traders operar las 24 horas del día, actuando como contraparte de todas las operaciones. El pool paga un 2% de dividendo a los titulares de tokens y un 2% al equipo de SPECTRE como tarifa tecnológica, cada vez que un trader realiza una operación. El pool crece cada vez que un trader tiene una pérdida y se contrae (pagando entre un 75-93% de ROI) si el trader gana. Todas las transacciones se gobiernan por contratos inteligentes lo que significa que el broker se elimina totalmente de la ecuación, asegurando un nuevo nivel de transparencia y confianza en el trading financiero.');
+define('spectre_subtitle2_text', ‘Plataforma de Trading Adaptativa’);
+define('spectre_subtitle2_desc_text', ‘A diferencia de las plataformas de trading hoy en día (como MT4/MT5/Spot Option/Techfinancials, etc.) SPECTRE tiene numerosos algoritmos de protección del trader que ayudan con el control de emociones, gestión de riesgos, reconocimiento de oportunidades de comercio, así como la capacidad de conocer estadísticas incluyendo fortalezas y debilidades a lo largo del tiempo. SPECTRE aprende las debilidades del trader a lo largo del tiempo y le advierte cuando está a punto de cometer un error tonto.');
+define('spectre_roadmap_small_text', ‘Hoja de Ruta’);
+define('spectre_roadmap_desc_text', ‘El equipo de SPECTRE tiene una hoja de ruta de 8 fases, de 3 años de duración. Está resumida a continuación y puedes encontrar más información sobre la misma en el [[LINK]]whitepaper.');
+define('spectre_progress_map1_text', ‘T4 2016');
+define('spectre_progress_map1_point1_text', ‘Investigación de Mercado’);
+define('spectre_progress_map1_point2_text', ‘Análisis de Viabilidad Técnica’);
+define('spectre_progress_map1_point3_text', ‘Configuración del Equipo’);
+define('spectre_progress_map2_text', ‘T2 2017');
+define('spectre_progress_map2_point1_text', ‘Desarrollo de SPECTRE');
+define('spectre_progress_map2_point2_text', ‘Alfa Privada’);
+define('spectre_progress_map3_text', ‘T4 2017');
+define('spectre_progress_map3_point1_text', ‘Contratos Inteligentes de la ICO: <br /> Auditorías de Seguridad’);
+define('spectre_progress_map3_point2_text', ‘Preventa de Tokens’);
+define('spectre_progress_map3_point3_text', ‘Venta pública de Tokens’);
+define('spectre_progress_map3_point4_text', ‘Venta Pública con <br /> Integración Testnet’);
+define('spectre_progress_map4_text', ‘T2-T4 2018');
+define('spectre_progress_map4_point1_text', ‘Nuevos Tipos de Activos y Operaciones’);
+define('spectre_progress_map4_point2_text', ‘Regulación EU MIFID: <br />Licencias (FCA, CySEC, BAFIN y otras)’);
+define('spectre_progress_map4_point3_text', ‘Trading en Forex’);
+define('spectre_progress_map5_text', ‘T1 2017');
+define('spectre_progress_map5_point1_text', ‘Interacciones con Forex y <br /> Comunidad de Opciones Digitales’);
+define('spectre_progress_map5_point2_text', ‘Desarrollo de PMV’);
+define('spectre_progress_map5_point3_text', 'Feedback y Pivote de SPECTRE a la <br /> Blockchain');
+define('spectre_progress_map6_text', ‘T3 2017');
+define('spectre_progress_map6_point1_text', ‘Contrato Inteligente de la ICO: <br /> Desarrollo’);
+define('spectre_progress_map6_point2_text', ‘Dapp Inteligente de SPECTRE: <br /> Desarrollo del Contrato’);
+define('spectre_progress_map6_point3_text', ‘Alfa Pública’);
+define('spectre_progress_map7_text', ‘T1 2018');
+define('spectre_progress_map7_point1_text', ‘Contratos Inteligentes Dapp, <br /> Dapp y Servidores: <br />Auditorías de Seguridad’);
+define('spectre_progress_map7_point2_text', ‘Integración en Mainnet’);
+define('spectre_progress_map7_point3_text', ‘Lanzamiento del Producto’);
+define('spectre_progress_map7_point4_text', 'Marketing y Adquisiciones’);
+define('spectre_progress_map7_point5_text', ‘Solicitud de Marca’);
+define('spectre_progress_map8_text', ‘T1-T2 2019');
+define('spectre_progress_map8_point1_text', ‘Matching de órdenes automatizado’);
+define('spectre_progress_map8_point2_text', 'DApp Store');
+define('spectre_the_team_text', ‘El Equipo’);
+define('spectre_team_desc_text', ‘El equipo de SPECTRE tiene una gran experiencia en ingeniería financiera en un gran número de clases de activos, especialmente FX, valores y opciones digitales. Nuestro equipo técnico está formado por desarrolladores full-stack y gurís de la blockchain que ayudan en todas las fases de propósito de plataformas de trading para la blockchain de Ethereum, ingeniería de tokens y auditoría de tokens. Nuestro equipo comercial tiene una amplia experiencia en el lanzamiento y escalamiento de negocios tecnológicos.');
+define('spectre_team_member1_pos_text', 'CEO’);
+define('spectre_team_member1_desc_text', ‘Kay es responsable de supervisar el diseño, arquitectura y expansión de SPECTRE en el mercado. Es co-fundador de Neuchatel Ltd y FIIT, las empresas detrás de SPECTRE, y es un gran entusiasta de la blockchain. Comenzó trabajando en J.P Morgan y pasó a formar parte de Goldman Sachs como Director Ejecutivo en Investigación e Inversiones. Comenzó su carrera estudiando en la London School of Economics, donde recibió un BSc y posteriormente un MSc en Decision Sciences.');
+define('spectre_team_member2_pos_text', 'COO’);
+define('spectre_team_member2_desc_text', 'Zisis es el responsable de las previsiones financieras y la gestión de riesgos en el pool de liquidez de SPECTRE. También es co-fundador de Neuchatel Ltd, la empresa detrás de SPECTRE y anteriormente trabajó en INO SA y Siemens, diseñando e implementando su software ERP. Es un ingeniero eléctrico con pasión por las matemáticas, el modelado, el big data, y está certificado en Quantitative Finance y Risk Modelling por la Universidad de Wharton. Recibió su MSC en Decision Sciences de la London School of Economics.');
+define('spectre_team_member3_pos_text', 'CFO’);
+define('spectre_team_member3_desc_text', ‘La empresa de Elena, Fiducicorp, es responsable de los estados financieros anuales de Neuchatel y ha estado en Neuchatel Ltc desde su nacimiento. la fascinación de Elena por el ecosistema blockchain hizo muy sencilla la decisión de SPECTRE de unirse a su Consejo en 2016. Ha sido responsable de la contabilidad de SPECTRE, la planificación financiera y análisis de funciones. Elena es miembro de la ICAEW y associate chartered accountant (ACA). Trabajó anteriormente en KPMG London y tiene un grado Bachelor en Derecho por la Kings College de Londres.');
+define('spectre_team_member4_pos_text', 'CTO’);
+define('spectre_team_member4_desc_text', 'Jai es responsable de dar forma a la visión tecnológica a largo plazo de SPECTRE y está involucrado en todos los niveles técnicos de la compañía - contratos solidity, desarrollo de Dapp y arquitectura general. Jay es un profesional certificado por Microsoft, PMO y PMI-ACT y antes de unirse a Neuchatel Ltd ostentó posiciones clave en Hexaware, INSZoom, Mindtree y llevó a cabo proyectos para Microsoft, Motorola, IBM y Franklin Templeton entre otros. Jai tiene un Bachelor de grado en Ingeniería en Ciencias Informáticas y más de 14 años de experiencia en el desarrollo de sistemas corporativos.');
+define('spectre_team_member5_pos_text', ‘Arquitecto técnico’);
+define('spectre_team_member5_desc_text', ‘Nikita es un piloto de aviones de combate retirado, geek tecnológico y profesional de TI orientado a resultados con más de 25 años de experiencia en grandes proyectos de TI. Trabaja en todo lo relacionado con la tecnología en SPECTRE, especializado en Opciones Digitales y sistemas de trading FOREX/CFS y es un apasionado de la intersección entre la tecnología y las finanzas. Tiene un BS de la Hellenic Air-Force Academy, MSc en Computer Science (Staffordshire University de Reino Unido), MBA (NPS, CA, EEUU) especializado en Gestión de Contratos y Programas y PhD (Aalborg University de Dinamarca). Está enfocado en Machine Learning y Minado de Datos en trading algorítmico.');
+define('spectre_team_member6_pos_text', 'Director, Investigación y Desarrollo’);
+define('spectre_team_member6_desc_text', 'Oto trabajó en los algoritmos de SPECTRE durante su desarrollo en 2016 y actualmente trabaja en el calibrado de rendimiento técnico y backtesting de tipos de operaciones y activos. Apasionado por la ingeniería financiera, Otto es un antiguo empleado de Neuchatel Ltd y ayuda al grupo en todos los proyectos de ingeniería financiera. Estudió en la 21st Elite Schoool en Tallinn y posteriomente telecomunicaciones, ciencias de radio y tecnología electrónica en la Escuela Politécnica de Tallinn. Anteriormente trabajó en Microsoft como asistente técnico de alto nivel donde desarrolló una pasión por el trading y la investigación de mercado.');
+define('spectre_team_member7_pos_text', ‘Auditor y Consultor Blockchain');
+define('spectre_team_member7_desc_text', 'Adam tiene más de 13 años de experiencia en codificación fintech junto con amplias experiencia en el desarrollo y despliegue de Solidity y Ethereum, incluyendo auditorías de seguridad, desarrollo de contratos y estrategia. Anteriormente fue Director Ejecutivo en Morgan Stanley, donde Adam pasó más de una década trabajando en tecnologías de servicios financieros. Adam completó su Master en Machine Learning en la Universidad de Columbia, Nueva York.');
+define('spectre_team_member8_pos_text', ‘Desarrollador Solidity');
+define('spectre_team_member8_desc_text', 'Partha es un tecnólogo talentoso con 15 años de experiencia en el desarrollo de aplicaciones y arquitectura de soluciones. Ha pasado la mayor parte de su carrera diseñando soluciones para los mercados de Servicios Financieros (FX, futuros de divisas, MT4 y API FIX), siendo el bagaje ideal para el desarrollo del contrato inteligente de SPECTRE. En SPECTRE, Partha es responsable de la arquitectura y desarrollo de contratos inteligentes para el motor de trading principal.');
+define('spectre_team_member9_pos_text', ‘SOCIO, FORMACIÓN EN TRADING');
+define('spectre_team_member9_desc_text', 'Zen es responsable de la formación de trader en SPECTRE. Es un muy experimentado educador de trading financiero de Blue Sky Binary, un grupo de trading de opciones digitales y FX. Está al cargo del desarrollo del contenido educativo dentro de la plataforma de SPECTRE y de ayudar a los clientes a aprender cómo operar. Zen es un jugador de tenis ITF competitivo en su tiempo libre');
+define('spectre_team_member10_pos_text', ‘Director de Marketing Digital');
+define('spectre_team_member10_desc_text', ‘En este papel, Cheryl supervisa el marketing digital, el desarrollo de contenido creativo y las comunicaciones en medios para crear imagen de marca de SPECTRE. Cheryl está enamorada de las criptomonedas y fascinada de formar parte del equipo de SPECTRE. Se educó en la Universidad de Plymouth, Reino Unido, donde se graduó en BA (con honores) Media y Marketing.');
+define('spectre_title3_text', ‘Plataforma de Trading de SPECTRE');
+define('spectre_title3_desc_text', ‘SPECTRE no es un concepto, es una plataforma de trading en vivo lista para que entres y la pruebes. Siéntete libre de unirte a la comunidad activa de traders de SPECTRE mientras estás conectado. ¡Regístrate y prueba sus increíbles funcionalidades! (nota: esta es la alfa pública cuya integración con la testen de Ethereum está programada para diciembre de 2017).');
+define('spectre_register_text', ‘REGÍSTRATE’);
+define('spectre_login_text', ‘LOGUÉATE’);
+define('spectre_stay_in_touch_text', ‘Mantente en Contacto’);
+define('spectre_subscribe_text', ‘SUSCRÍBETE’);
+define('spectre_follow_us_text', ‘Síguenos’);
+define('spectre_email_text', 'Email');
+define('spectre_footer_address_text', 'SPECTRE Office @ Fiducicorp UK, 6th Floor, 15, Hanover Square, W1S 1HS, London, UK');
+define('spectre_copyright_text', 'Copyright &copy; 2017 - FIIT Trading Ltd. Todos los Derechos Reservados.’);
+
+
+define('spectre_token_sale_text', ‘Venta de Tokens’);
+define('spectre_platform_text', 'Plataforma’);
+define('spectre_miscellaneous_text', 'Miscelánea’);
+define('spectre_faq_qn1_text', ‘¿Qué es SPECTRE?’);
+define('spectre_faq_ans1_text', 'SPECTRE (speculative tokenized trading exchange) es una página web que te permite realizar operaciones sobre la dirección de criptomonedas, commodities, valores y otros activos, para conseguir ganancias financieras. De manera única, ofrece la posibilidad de que los traders puedan ganar entre un 75-93% de ROI en solo 1 operación en cuestión de minutos. A diferencia de los corretajes tradicionales, está construida sobre la blockchain de Ethereum, lo que significa que está totalmente descentralizada y libre de brokers. Los traders nunca depositan en SPECTRE para realizar operaciones y su pool de liquidez (esto es, el balance) es propiedad de los titulares de tokens que reciben dividendos sobre las ganancias de SPECTRE, no a través de una gestión centralizada.');
+define('spectre_faq_qn2_text', ‘¿Qué es Blockchain y cómo interactúa SPECTRE con ella?');
+define('spectre_faq_ans2_text', ‘Los contratos de opciones digitales y operaciones en valores/FX de SPECTRE están asentados sobre la blockchain de Ethereum. Los traders enviar dinero a sus cuentes de Ethereum (con la criptomoneda que se realizan las operaciones) que son escrows privados a los que solo ellos tienen acceso. Si un trader gana, se envía una orden al pool de liquidez de SPECTRE por un contrato inteligente gobernado en blockchain para que pague instantáneamente al trader. Si el trader pierde la operación, los fondos utilizados para dicha operación se eliminan de su escrow privado y se envían al pool de liquidez de SPECTRE. Esta acción detona el pago de un dividendo mensual a los titulares de tokens, que son los dueños del pool de liquidez.');
+define('spectre_faq_qn3_text', ‘¿Necesito Ethereum (ETH) para operar en SPECTRE?’);
+define('spectre_faq_ans3_text', ‘Sí, aunque puedes convertir tu Ether de nuevo en divisas fiat como GBP, USD, EUR, JPY, CHG etc usando nuestro intercambiador de divisas interno de manera inmediata. Ethereum tiene un volumen de transacciones de cerca de 1.000 millones de dólares a diario, con lo que asegura una amplia liquidez a escala global.');
+define('spectre_faq_qn4_text', ‘¿Cuál es la política de retirada?');
+define('spectre_faq_ans4_text', 'SPECTRE está gobernado por contratos inteligentes y todas las transacciones incluyendo pagos y retiradas de fondos por los traders están gobernadas en la blockchain de Ethereum. Suceden de manera instantánea el equipo de gestión de SPECTRE no puede manipular este proceso.');
+define('spectre_faq_qn5_text', ‘¿Está Spectre regulado?’);
+define('spectre_faq_ans5_text', 'SPECTRE solicitará una licencia regulatoria en 2018 a la FCA y otras jurisdicciones EU MIFID.’);
+define('spectre_faq_qn6_text', ‘Ofrece SPECTRE señales y auto-trading?');
+define('spectre_faq_ans6_text', 'SPECTRE ofrece indicadores de operaciones educativos que encuentran gráficas potencialmente rentables. No obstante, no se consideran consejos de inversión, simplemente identifican posibles oportunidades.</p>');
+define('spectre_faq_qn7_text', ‘¿Se añadirán más activos en el tiempo en SPECTRE?');
+define('spectre_faq_ans7_text', ‘Sí, SPECTRE inicialmente ofrecerá el trading con divisas y finalmente se expandirá a la gama completa de clases de activos.’);
+define('spectre_faq_qn8_text', ‘¿Quién es el equipo detrás de SPECTRE?’);
+define('spectre_faq_ans8_text', ‘El equipo de Ingeniería Financiera de Neuchatel Ltd. Puedes obtener más información en <a href="https://www.spectre.ai/#team" target="_blank" class="mail_highlight">www.spectre.ai/team</a>');
+define('spectre_faq_qn9_text', ‘Mi SPECTRE no funciona, ¿ofrecéis soporte?');
+define('spectre_faq_ans9_text', ‘Sí. Puedes conectarte al Chat de SPECTRE y dejar una solicitud en la sala de  Soporte Técnico o contactar a través de <a href="mailto:support@spectre.ai" class="mail_highlight">support@spectre.ai</a>');
+define('spectre_faq_qn10_text', ‘¿Qué porcentajes de pagos corresponden a las operaciones?’);
+define('spectre_faq_ans10_text', '75-93%');
+define('spectre_faq_qn11_text', ‘¿Puedo conectar mi MT4 a mi SPECTRE?');
+define('spectre_faq_ans11_text', 'SPECTRE ofrecerá esta posibilidad en 2019');
+define('spectre_faq_qn12_text', ‘¿Tiene SPECTRE un programa de afiliación?’);
+define('spectre_faq_ans12_text', ‘Sí, SPECTRE paga la mitad de todas las comisiones recaudadas por operaciones de los clientes que invites. Para más información, contacta <a href="mailto:affiliates@spectre.ai" class="mail_highlight">affiliates@spectre.ai</a>');
+define('spectre_faq_qn13_text', ‘He olvidado mi nombre de usuario/contraseña. ¿Qué puedo hacer?’);
+define('spectre_faq_ans13_text', ‘Puedes usar la función \’Olvidé mi Contraseña\’ en la página de logueo de SPECTRE.');
+define('spectre_faq_qn14_text', ‘¿Cobráis comisiones por retiradas de fondos?’);
+define('spectre_faq_ans14_text', 'No.');
+define('spectre_faq_qn15_text', ‘¿Cuál es la cantidad máxima permitida por transacción?');
+define('spectre_faq_ans15_text', '200,00$ el Año 1. 1.000,00$ el Año 2 y 5.000,00$ el Año 3. A partir de entonces se elevarán significativamente los límites.’);
+define('spectre_faq_qn16_text', ‘¿Está basado en web? (mejores navegadores)’);
+define('spectre_faq_ans16_text', ‘Sí y los mejores navegadores para usar SPECTRE son Firefox y Chrome. Habrá disponible una App móvil en 2018.’);
+define('spectre_faq_qn17_text', ‘¿Qué activos puedo comerciar en SPECTRE?’);
+define('spectre_faq_ans17_text', ‘Todas las principales divisas, determinadas criptomonedas, valores y commodities.’);
+define('spectre_faq_qn18_text', ‘¿Cuánto dinero necesito para operar en Spectre?');
+define('spectre_faq_ans18_text', ‘No hay un mínimo y recomendamos encarecidamente empezar con pequeñas cantidades puesto que el trading financiero es arriesgado, aunque rentable.');
+define('spectre_faq_qn19_text', ‘¿Están mis fondos protegidos?’);
+define('spectre_faq_ans19_text', ‘Los fondos disponibles para que operes tú, el trader, se almacenan en tu propio escrow privado, que se crea cuando te registras inicialmente. Solo tú puedes acceder a esta cartera de Ethereum criptográficamente protegida y todas las transacciones desde y ella se procesan/regulan por la blockchain de Ethereum. Ni el equipo de gestión ni los empleados de SPECTRE tienen acceso o control sobre tu cuenta.');
+define('spectre_faq_qn20_text', ‘¿Qué hay de la volatilidad de las divisas?’);
+define('spectre_faq_ans20_text', ‘El pool de liquidez de SPECTRE se fundamenta en ETH como tu cartera escrow privada. Por ello, no hay riesgo de volatilidad en ese sentido. No obstante, si conviertes tus ETH de nuevo a divisas fiat como USD, estarás expuesto a los movimientos ETH/USD.');
+define('spectre_faq_qn21_text', ‘¿Cuáles son los requisitos del sistema?’);
+define('spectre_faq_ans21_text', ‘Un ordenador moderno con navegador de Internet y conexión de alta velocidad.');
+define('spectre_faq_qn22_text', ‘¿Tiene SPECTRE una API?');
+define('spectre_faq_ans22_text', ‘La API de SPECTRE se abrirá al público en 2018.');
+define('spectre_faq_qn23_text', ‘¿Está SPECTRE disponible en varios idiomas?');
+define('spectre_faq_ans23_text', ‘Sí, simplemente ve a Configuración y puedes seleccionar el idioma que prefieras.');
+define('spectre_faq_qn24_text', ‘¿Puedo apostar a favor de la banca?’);
+define('spectre_faq_ans24_text', ‘Puedes considerar comprar tokens SPECTRE que estén listados en las principales casas de cambio de criptomonedas. Estos tokens te proporcionan un derecho al 2% de los dividendos cada vez que un trader realice una operación. Si eres ciudadano estadounidense invertir en SPECTRE está terminantemente prohibido.');
+define('spectre_faq_qn25_text', ‘¿Puedo usar SPECTRE con una cuenta demo?’);
+define('spectre_faq_ans25_text', ‘Sí’);
+define('spectre_faq_qn26_text', ‘¿Estoy operando contra la banca? ¿Hay una banca?’);
+define('spectre_faq_ans26_text', 'SPECTRE es único en el sentido de que su pool de liquidez es descentralizado, por lo que la banca misma está descentralizada y poseída por todos los inversores de tokens.');
+define('spectre_faq_qn27_text', ‘Mis gráficas no funcionan, ¿qué sucede?’);
+define('spectre_faq_ans27_text', ‘Puedes ingresar en el Chat de SPECTRE y dejar una petición en la sala de Soporte Técnico o contactar <a href="mailto:support@spectre.ai" class="mail_highlight">support@spectre.ai</a>');
+define('spectre_faq_qn28_text', ‘Estoy teniendo dificultades configurando una cuenta en SPECTRE, ¿ayuda?');
+define('spectre_faq_ans28_text', 'Puedes ingresar en el Chat de SPECTRE y dejar una petición en la sala de Soporte Técnico o contactar <a href="mailto:support@spectre.ai" class="mail_highlight">support@spectre.ai</a>');
+define('spectre_faq_qn29_text', ‘¿Cobráis alguna comisión por cuentas inactivas?');
+define('spectre_faq_ans29_text', 'No.');
+define('spectre_faq_qn30_text', ‘¿Qué criptomonedas puedo usar aparte de Ether?');
+define('spectre_faq_ans30_text', ‘Debes convertir cualquier divisa fiat a Ether primero. Esto lo puedes hacer igualmente en nuestra página web o en cualquier casa de cambio de criptomonedas de terceros.');
+define('spectre_faq_qn31_text', ‘¿Cuándo comenzará y finalizará la ICO de SPECTRE?’);
+define('spectre_faq_ans31_text', ‘La ICO comenzará el 17 de noviembre de 2017. La ICO durará 30 días o hasta que se alcance el máximo de ETH previsto.');
+define('spectre_faq_qn32_text', ‘¿Qué pasa si no se alcanza el máximo previsto?’);
+define('spectre_faq_ans32_text', ‘El máximo se establece como medida de seguridad. Es simplemente un máximo y no un objetivo.’);
+define('spectre_faq_qn33_text', ‘¿Qué métodos de pago se aceptarán en la ICO?’);
+define('spectre_faq_ans33_text', ‘El Ether ("ETH") será el único método de pago aceptado en la ICO. Si tienes otras criptomonedas puedes usar ShapeShift para convertirlas en ETH.');
+define('spectre_faq_qn34_text', ‘¿Cuántos tokens se emitirán durante la ICO?');
+define('spectre_faq_ans34_text', '120 millones.’);
+define('spectre_faq_qn35_text', ‘¿Haréis una preventa?’);
+define('spectre_faq_ans35_text', ’Sí, haremos una preventa del 27 de octubre de 2017 al 5 de noviembre de 2017. La distribución de tokens en la preventa estará limitada y no superará los 40 millones de tokens.');
+define('spectre_faq_qn36_text', ‘¿Qué pasará con los tokens que no se vendan?’);
+define('spectre_faq_ans36_text', ‘Tras la finalización de la venta de tokens el remanente de tokens no vendidos serán destruidos y el valor de los titulares de tokens crecerá proporcionalmente, según principio pari-passu.');
+define('spectre_faq_qn37_text', ‘Sigue SPEC el estándar ERC20?');
+define('spectre_faq_ans37_text', ‘Sí, el Token de SPECTRE (SPEC) sigue el estándar ERC20 y por lo tanto puede ser almacenado en cualquier cartera de Ethereum que soporte este protocolo.');
+define('spectre_faq_qn38_text', ‘¿Cuándo se listará SPEC en las casas de cambio, y en cuáles?’);
+define('spectre_faq_ans38_text', 'SPEC estará disponible en las casas de cambio después de que finalice la campaña. Se publicarán después de la venta de tokens.');
+define('spectre_faq_qn39_text', ‘¿Cómo puedo almacenar mis tokens de manera segura?’);
+define('spectre_faq_ans39_text', 'SPEC es un token ERC20, y puede almacenarse en cualquier cartera compatible con ERC20. Se recomienda encarecidamente almacenar tus SPECs en una solución de almacenamiento frío, offline. Por favor, no mantengas grandes cantidades de criptomonedas en casas de cambio centralizadas. Tampoco deberías tener una copia de seguridad de tus claves privadas en tu email, escritorio, o Google Drive, etc. “Ledger Nano S” es una gran solución de cartera en hardware, compatible con todos los distintos tipos de tokens Ethereum ERC-20. Tus tokens SPEC deberían permanecer seguros allí, desde nuestro punto de vista.');
+define('spectre_faq_qn40_text', ‘¿Cuál es el límite máximo?’);
+define('spectre_faq_ans40_text', ‘El límite máximo son 100.000 ETH.');
+define('spectre_faq_qn41_text', ‘¿Cómo puedo participar?’);
+define('spectre_faq_ans41_text', '<p align="left">
+                                                Utiliza las siguientes carteras para enviar tus Ether a nuestro contrato inteligente de la ICO,
+                                            </p>
+                                            <ul class="spectre-map_list" style="margin-left:0px;text-align: left;">
+                                                <li>MyEtherWallet (no requiere descarga)</li>
+                                                <li>MetaMask (Addon para navegadores Firefox y Chrome)</li>
+                                                <li>Mist (Escritorio)</li>
+                                                <li>Parity (Escritorio)</li>
+                                                <li>imToken (iPhone)</li>
+                                                <li>imToken (Android)</li>
+                                            </ul>
+                                            <br />
+                                            <p align="left">
+                                                Por favor, no envíes Ether desde las casas de cambio. 
+                                            </p>');
+define('spectre_faq_qn42_text', ‘¿Cuál es la dirección de ETH en la que debo contribuir?’);
+define('spectre_faq_ans42_text', '<p align="left">La dirección se publicará en nuestra página web cuando comience la ICO. </p>
+                                            <p align="left">
+                                                La página web de SPECTRE y la Dapp (beta) se cargan balanceadas en DNS así como en hardware y protegidas por arquitectura firewall de
+                                                tres tier, aunque, en el caso de ataque de denegación de servicio la dirección se publicará en nuestro canal oficial de Medium. 
+                                                Nuestro equipo nunca compartirá la dirección de contrato de la ICO directamente y no confíes en ninguna otra dirección que puedas ver 
+                                                en Slack, Telegram, Twitter, Facebook, Reddit o cualquier otro canal.
+                                            </p>');
+define('spectre_faq_qn43_text', ‘¿Tienen nombre los tokens SPECTRE?’);
+define('spectre_faq_ans43_text', ‘Sí, SPEC es el nombre del token.’);
+define('spectre_faq_qn44_text', ‘¿Puedo ver el contrato inteligente de la ICO?’);
+define('spectre_faq_ans44_text', ‘El contrato inteligente se publicará en GitHub cuando esté disponible.’);
+define('spectre_faq_qn45_text', ‘Soy residente en EEUU, ¿puedo participar?’);
+define('spectre_faq_ans45_text', ‘La venta no está abierta a ciudadanos estadounidenses. Los participantes en la ICO deben firmar digitalmente una declaración de que no son ciudadanos estadounidenses.');
+define('spectre_faq_qn46_text', ‘¿Cómo puedo usar los SPEC después de la ICO?');
+define('spectre_faq_ans46_text', ‘Después de la ICO, los tokens serán listados en las casas de cambio de criptomonedas. Aparte de la ganancia potencial de capital del token, el token también generará dividendos futuros como parte del modelo de distribución del beneficio establecido.’);
+define('spectre_faq_qn47_text', ‘¿Los tokens son inmediatamente transferibles?’);
+define('spectre_faq_ans47_text', ‘Los tokens se envían inmediatamente a los usuarios tras la compra, si bien serán transferibles tras la finalización de la venta de tokens, que será bien 30 días después del comienzo o cuando se alcance el límite máximo');
+define('spectre_faq_qn48_text', ‘¿Dónde se conservarán los fondos tras la ICO? ¿Usaréis algún tipo de servicio escrow?');
+define('spectre_faq_ans48_text', ‘Todos los fondos recaudados durante la ICO se conservarán en un contrato de cartera multo-firma de Ethereum. Para asegurar la sólida seguridad financiera de los fondos para nuestros inversores, SPECTRE también tendrá un acuerdo de escrow.');
+define('spectre_faq_qn49_text', ‘¿Dónde tiene la sede el Equipo?’);
+define('spectre_faq_ans49_text', ‘Nuestro equipo está establecido en Londres, Reino Unido, y nuestra dirección es St Georges House, 6th Floor, 15 Hanover Square, London W1S 1HS, United Kingdom.');
+define('spectre_faq_qn50_text', ‘No encuentro la respuesta a mi pregunta en estas Preguntas Frecuentes.');
+define('spectre_faq_ans50_text', ‘Envía una solicitud a <a href="mailto:support@spectre.ai" class="mail_highlight">support@spectre.ai</a> y contestaremos tu pregunta.’);
+
+
+define('spectre_name_req_error', ‘Por favor, escribe tu nombre.’);
+define('spectre_name_len_error', ‘El nombre no puede tener más de 15 caracteres.’);
+define('spectre_email_req_error', 'Please enter your email ID.');
+define('spectre_email_invalid_error', ‘Por favor, escribe un identificador de email válido.’);
+define('spectre_email_exists_error', ‘Este Email ya existe, por favor, escribe otro email.’);
+define('spectre_password_req_error', ‘Por favor, introduce tu contraseña.’);
+define('spectre_password_len_error', ‘Por favor, escribe al menos 6 caracteres.’);
+define('spectre_con_password_req_error', ‘Por favor, reintroduce tu contraseña.’);
+define('spectre_con_password_mismatch_error', ‘Las contraseñas introducidas no coinciden.’);
+define('spectre_country_req_error', ‘El campo País de Residencia no puede estar en blanco.’);
+define('spectre_prof_req_error', ‘El campo Experiencia Profesional no puede estar en blanco.’);
+define('spectre_sugg_req_error', ‘El campo Sugerencias no puede estar en blanco.’);
+define('spectre_address_req_error', ‘El campo Dirección no puede estar en blanco.’);
+define('spectre_address_invaid_error', ‘Por favor, introduce valores alfanuméricos y deberían ser 42 caracteres.’);
+define('spectre_amount_req_error', ‘El campo Cantidad de Contribución no puede estar en blanco.’);
+define('spectre_intrested_in_req_error', ‘Por favor, selecciona tus intereses.’);
+define('spectre_verify_human_error', ‘Por favor, verifica que eres humano.’);
+define('spectre_verified_human_msg', ‘¡Verificado!’);
+define('spectre_processing_text', 'Procesando…’);
+define('spectre_done_text', ‘Hecho’);
+define('spectre_sign_up_text', ‘Loguéate’);
+define('spectre_member_text', ‘Miembro’);
+
+
+define('spectre_register_small_text', 'Regístrate’);
+define('spectre_index_sale_subtitle2_text', ‘Protección y Analíticas del Trader);
+define('spectre_index_sale_title3_desc_text', 'SPECTRE no es un concepto, es una plataforma ya disponible para que ingreses y la pruebes. SPECTRE está actualmente en una fase alfa y de solo invitación. Para adquirir tu acceso, envía un email a team@spectre.ai. La alfa pública estará disponible el 13 de septiembre de 2017.');
+define('spectre_days_text', ‘DÍAS’);
+define('spectre_hours_text', ‘HORAS’);
+define('spectre_minutes_text', ‘MINUTOS’);
+define('spectre_seconds_text', ‘SEGUNDOS’);
+define('spectre_sale_terms_block', ‘ACEPTA LOS TÉRMINOS’);
+define('spectre_sale_details_block', ‘ESCRIBE TUS DATOS PERSONALES’);
+define('spectre_sale_wallet_block', ‘AUTORIZA LA CARTERA’);
+define('spectre_important_note1_text', '<b>NOTA IMPORTANTE:</b> Por favor, ten en cuenta que los miembros 
+                                    del equipo de SPECTRE no te pedirán que hagas contribuciones antes de
+                                    la venta pública el 17 de noviembre de 2017. Eso serán intentos de 
+                                    suplantación de identidad y estafas, y si encuentras alguno en tu bandeja 
+                                    de entrada o en mensajes privados, por favor
+                                    denúncialos enviando un email a’);
+define('spectre_declaration1_text', ‘Declaro que no soy ciudadano/residente permanente estadounidense ni represento a ninguna empresa, ciudadano/residente permanente/empresa representante de ninguna jurisdicción donde la compra de tokens SPEC sea ilegal, esté restringida o requiera acreditación epsecial.');
+define('spectre_declaration2_text', ‘Confirmo que he leído y comprendido la <a href="https://docs.google.com/spreadsheets/d/1tUvxjsgO0s9JOAwm3uGLhP1wzl-LOoxh5_8mstZ2Rfg" target="_blank" style="color:#fd7c23;text-decoration: underline;" class="terms_link" onclick="handleClick(\'terms-documents\',\'token-mechanics\',\'token-mechanics\',10);">mecánica del Token</a> SPECTRE y quiero participar en la venta pública de SPECTRE.');
+define('spectre_declaration3_text', ‘Confirmo que he leído y comprendido el <a href="media/spectre_whitepaper.pdf?ver=1.6" target="_blank" onclick="handleClick(\'terms-documents\',\'download-white-paper\',\'spectre_whitepaper.pdf\',10);" class="terms_link" style="color:#fd7c23;text-decoration: underline;">WhitePaper</a>.');
+define('spectre_confirm_text', ‘Confirmo’);
+define('spectre_important_note2_text', '<b>NOTA IMPORTANTE:</b> 
+                            Para asegurarnos de que estás en la lista blanca, por favor, toma unos minutos para responder
+                            todas las cuestiones de modo detallado. Nuestra prioridad desde el día uno ha sido
+                            una gran y justa venta de tokens para nuestra comunidad y nuestro mantra es la transparencia
+                            y a cambio pedimos lo mismo para crear una comunidad de alta calidad tanto por parte
+                            de titulares de tokens como de traders. Contestando las preguntas totalmente aumentarás tuso
+                            probabilidades de ser aceptado en la lista blanca.');
+define('spectre_important_note3_text', ‘Las direcciones de cartera ETH ingresadas serán añadidas a nuestros contratos inteligentes y formarán parte de la lista blanca. Los participantes pueden comprar tokens solo desde dichas direcciones de cartera ETH en las listas blancas. Debes usar una cartera que te permita interactuar con contratos de token ERC20. Usa un servicio como MyEtherWallet, Parity o MetaMask. Por favor, no intentes participar en la venta desde las casas de cambio de criptomonedas.');
+define('spectre_input_name', ‘Nombre’);
+define('spectre_input_email', 'Email');
+define('spectre_input_password', ‘Contraseña’);
+define('spectre_input_confirm_password', 'Confirma tu Contraseña’);
+define('spectre_input_country', ‘País de Residencia’);
+define('spectre_input_promo_code', ‘Código Promocional/Referencia (Opcional)');
+define('spectre_input_profession', ‘Experiencia Profesional’);
+define('spectre_input_suggestion', ‘Sugerencias/Preguntas’);
+define('spectre_input_slack_channel', ‘Nombre corto en el Canal Slack de SPECTRE (Opcional)');
+define('spectre_input_telegram_channel', ‘Nombre de usuario en el Canal de Telegram de SPECTRE (Opcional)');
+define('spectre_input_wallet', ‘Dirección de Cartera ETH');
+define('spectre_input_amount', ‘Cantidad de ETH Contribuidos’);
+define('spectre_previous_text', ‘Anterior’);
+define('spectre_save_next_text', ‘Guardar y Siguiente’);
+define('spectre_back_to_previous_text’,’Volver a Datos Personales’);
+define('spectre_your_email_text', ‘Tu email');
+
+
+define('spectre_intrested_in_text', ‘Interesado en’);
+define('spectre_pre_sale_text', 'Preventa’);
+define('spectre_public_sale_text', ‘Venta Pública);
+define('spectre_both_text', ‘Ambas’);
+
+
+define('spectre_registration_success_msg', ‘Gracias por registrarte con nosotros. 
+                 Necesitas activar tu cuenta con el enlace enviado a tu dirección de correo electrónico. 
+                 Si no visualizas el email, por favor, revisa tu carpeta de correo no deseado/spam. 
+                 Si ingresaste una dirección de correo errónea, 
+                 deberás volver a registrarte con la dirección de correo correcta.’);
+
+
+define('spectre_email_error_msg1', ‘Gracias por suscribirte.’);
+define('spectre_email_error_msg2', ‘Ya has sido suscrito.’);
+define('spectre_email_error_msg3', ‘Por favor, ingresa un identificador de email válido.’);
+define('spectre_email_error_msg4', ‘Por favor, ingresa tu identificador de email.’);
+define('spectre_email_error_msg5', ‘El método seleccionado no está disponible.’);
+
+
+define('spectre_register_for_sale_text', ‘REGÍSTRATE PARA LA PREVENTA’);
+define('spectre_account_activated_text', ‘Tu cuenta ha sido activada y tu dirección de cartera será añadida a la lista blanca.');
